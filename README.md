@@ -1,0 +1,1 @@
+This is a project where i analyse the infamous Titanic dataset. This project contains exploratory analysis of the dataset, cleaning up dataset itslef, preprocessing it, and training Random Forest Classifier on it. And then evaluating cross-validation scores 
